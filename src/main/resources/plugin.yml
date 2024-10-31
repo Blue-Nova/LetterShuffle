@@ -1,0 +1,4 @@
+name: untitled5
+version: '${project.version}'
+main: org.bluenova.untitled5.Untitled5
+api-version: '1.21'
